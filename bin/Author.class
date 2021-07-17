@@ -1,0 +1,11 @@
+Êþº¾   7 )  Author  java/lang/Object id I 	firstName Ljava/lang/String; lastName age <init> )(ILjava/lang/String;Ljava/lang/String;I)V Code
+     ()V	    	    	   	 	   
+  LineNumberTable LocalVariableTable this LAuthor; ID 	FirstName LastName Age getId ()I getFirstName ()Ljava/lang/String; getLastName getAge 
+SourceFile Author.java !                 	     
+         
+   €     *· *µ *,µ *-µ *µ ±             	 	 
+          4                                   ! "  
+   /     *´ ¬                         # $  
+   /     *´ °                         % $  
+   /     *´ °                         & "  
+   /     *´ ¬                         '    (
